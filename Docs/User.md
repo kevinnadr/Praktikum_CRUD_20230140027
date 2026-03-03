@@ -135,3 +135,8 @@ Response Body (Success - 200)
   "status": "success delete user with id 1"
 }
 ```
+
+
+
+TAMPILAN WEB
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea4a9bd5-1510-4a74-a20b-e160a766ad60" />
